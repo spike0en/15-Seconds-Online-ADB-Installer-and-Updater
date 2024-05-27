@@ -1,4 +1,4 @@
-# 15 Seconds Online ADB Installer and Updater (JP)
+# 15 Seconds Online ADB Installer and Updater (EN)
 ## About this
 This is an online update-compatible version of the tool to set up ADB and Fastboot in about 15 seconds, which was previously troublesome to install.
 
